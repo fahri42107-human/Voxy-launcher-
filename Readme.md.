@@ -1,0 +1,6 @@
+# VoxyOS Launcher
+
+Premium-style native Android launcher built with Kotlin.
+
+## Build
+APK is built using GitHub Actions.
